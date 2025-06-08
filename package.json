@@ -1,0 +1,31 @@
+{
+  "name": "journalist-x-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend for Journalist X - journalism credentials management and AP submission",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "axios": "^1.7.2",
+    "clsx": "^2.1.1",
+    "next": "^14.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.51.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5.4.5"
+  }
+}

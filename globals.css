@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any global overrides or custom styles here */
+body {
+  background: #f7f8fa;
+}
